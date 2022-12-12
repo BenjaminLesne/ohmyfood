@@ -15,8 +15,8 @@ Vous pouvez retrouver le [brief complet ici](https://s3-eu-west-1.amazonaws.com/
 
 **Liens utiles**
 
-- [Site Web 🌎](https://benjaminlesne.github.io/benjaminLesne_3_03102021/)
-- [Code Source 📖](https://github.com/BenjaminLesne/benjaminLesne_3_03102021/)
+- [Website 🌎](https://benjaminlesne.github.io/ohmyfood/)
+- [Source code 📖](https://github.com/BenjaminLesne/ohmyfood/)
 
 ![screenshot du site](./images/screenshot.png)
 
