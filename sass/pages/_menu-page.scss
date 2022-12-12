@@ -1,0 +1,48 @@
+.menu-page {
+  display: flex;
+  flex-direction: column;
+
+  &__picture-wrapper {
+    transform: translateY(50px);
+    max-height: 500px;
+    @include flexbox-center;
+    overflow: hidden;
+    border-radius: 20px;
+    height: 85vw;
+  }
+  &__picture {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+  }
+}
+
+.menu {
+  padding: 30px 15px 50px 15px;
+  background-color: #f2f2f2;
+  border-radius: 40px 40px 0% 0%;
+  max-width: 600px;
+  z-index: 4;
+  max-width: 100%;
+  max-width: 900px;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .menu-page {
+    &__picture {
+      border-radius: 20px;
+      height: 100%;
+    }
+  }
+  .menu {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
