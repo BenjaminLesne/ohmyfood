@@ -69,8 +69,8 @@ You can find the [full brief here](https://s3-eu-west-1.amazonaws.com/course.oc-
 
 **Useful links**
 
-- [Website 🌎](https://benjaminlesne.github.io/benjaminLesne_3_03102021/)
-- [Source code 📖](https://github.com/BenjaminLesne/benjaminLesne_3_03102021/)
+- [Website 🌎](https://benjaminlesne.github.io/ohmyfood/)
+- [Source code 📖](https://github.com/BenjaminLesne/ohmyfood/)
 
 
 ### Animation
